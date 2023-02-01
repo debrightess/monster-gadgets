@@ -25,7 +25,7 @@ const Header = () => {
         </div>
       </header>
       <header className='header-upper py-3'>
-        <div className='container-xxl'>
+        <div className='container-xl'>
           <div className='row align-items-center'>
             <div className='col-2'>
               <h2>
@@ -101,7 +101,7 @@ const Header = () => {
         </div>
       </header>
       <header className='header-bottom py-3'>
-        <div className='container-xxl'>
+        <div className='container-xl'>
           <div className='row'>
             <div className='col-12'>
               <div className='menu-bottom d-flex align-items-center gap-30'>
